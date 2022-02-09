@@ -1,6 +1,6 @@
 Python package that consolidates YOLOv3 object detection and OpenCV facial recognition technologies into an object retrieval program for robotic integration.
 
-The main.py program implements object detection and facial recognition algorithms on received frames from clientdraft.py, which is run separately on a separate machine.
+The main.py program implements object detection and facial recognition algorithms on received frames from clientdraft.py, which is run on a separate machine (like a Raspberry Pi).
 
 Steps for a quick demonstration of algorithms:
 
